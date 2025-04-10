@@ -47,7 +47,7 @@ Using Python's data manipulation and visualization tools, this notebook answers 
 
 ---
 
-##✨ Author
+## ✨ Author
 Ediomo Etesin
 📧 ediomoetesin40@gmail.com
 🔗 GitHub: Edyetesin
